@@ -5,10 +5,22 @@ module.exports = () => {
 
     return {
 
-        get: async ({ cep }) => {
-           
+        get: async ({ cep }) => { 
             try {
-                return await consultaCep(cep);
+                const {
+                    cep: cepResponse,
+                    state: estado,
+                    city: cidade,
+                    neighborhood: bairro,
+                    street: rua
+                  } = await consultaCep(cep);
+                return {
+                    cep: cepResponse,
+                    estado,
+                    cidade,
+                    bairro,
+                    rua
+                }
             } catch (error) {
                 exception.badRequest(error.errors[0].message);
             }

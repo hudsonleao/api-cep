@@ -28,3 +28,43 @@
 {"code":400,"error":"CEP INVÁLIDO","level":"error","message":"Bad Request"}
 {"code":400,"error":"CEP informado possui mais do que 8 caracteres.","level":"error","message":"Bad Request"}
 {"code":400,"error":"CEP informado possui mais do que 8 caracteres.","level":"error","message":"Bad Request"}
+{"code":400,"error":"CEP informado possui mais do que 8 caracteres.","level":"error","message":"Bad Request"}
+{"code":400,"error":"CEP INVÁLIDO","level":"error","message":"Bad Request"}
+{"code":400,"error":"CEP NAO ENCONTRADO","level":"error","message":"Bad Request"}
+{"code":400,"error":"CEP NAO ENCONTRADO","level":"error","message":"Bad Request"}
+{"code":400,"error":"Não foi possível interpretar o XML de resposta.","level":"error","message":"Bad Request"}
+{"code":400,"error":"CEP NAO ENCONTRADO","level":"error","message":"Bad Request"}
+{"code":400,"error":"CEP informado possui mais do que 8 caracteres.","level":"error","message":"Bad Request"}
+{"code":400,"error":"CEP informado possui mais do que 8 caracteres.","level":"error","message":"Bad Request"}
+{"code":400,"error":"CEP informado possui mais do que 8 caracteres.","level":"error","message":"Bad Request"}
+{"code":400,"error":"CEP INVÁLIDO","level":"error","message":"Bad Request"}
+{"code":400,"error":"CEP NAO ENCONTRADO","level":"error","message":"Bad Request"}
+{"code":400,"error":"CEP informado possui mais do que 8 caracteres.","level":"error","message":"Bad Request"}
+{"code":400,"error":"Não foi possível interpretar o XML de resposta.","level":"error","message":"Bad Request"}
+{"code":400,"error":"Não foi possível interpretar o XML de resposta.","level":"error","message":"Bad Request"}
+{"code":400,"error":"CEP NAO ENCONTRADO","level":"error","message":"Bad Request"}
+{"code":400,"error":"Não foi possível interpretar o XML de resposta.","level":"error","message":"Bad Request"}
+{"code":400,"error":"CEP NAO ENCONTRADO","level":"error","message":"Bad Request"}
+{"code":400,"error":"Não foi possível interpretar o XML de resposta.","level":"error","message":"Bad Request"}
+{"code":400,"error":"CEP NAO ENCONTRADO","level":"error","message":"Bad Request"}
+{"code":400,"error":"CEP NAO ENCONTRADO","level":"error","message":"Bad Request"}
+{"code":400,"error":"CEP NAO ENCONTRADO","level":"error","message":"Bad Request"}
+{"code":400,"error":"CEP NAO ENCONTRADO","level":"error","message":"Bad Request"}
+{"code":400,"error":"CEP NAO ENCONTRADO","level":"error","message":"Bad Request"}
+{"code":400,"error":"CEP NAO ENCONTRADO","level":"error","message":"Bad Request"}
+{"code":400,"error":"Não foi possível interpretar o XML de resposta.","level":"error","message":"Bad Request"}
+{"code":400,"error":"CEP NAO ENCONTRADO","level":"error","message":"Bad Request"}
+{"code":400,"error":"Não foi possível interpretar o XML de resposta.","level":"error","message":"Bad Request"}
+{"code":400,"error":"Não foi possível interpretar o XML de resposta.","level":"error","message":"Bad Request"}
+{"code":400,"error":"CEP NAO ENCONTRADO","level":"error","message":"Bad Request"}
+{"code":400,"error":"CEP INVÁLIDO","level":"error","message":"Bad Request"}
+{"code":400,"error":"CEP INVÁLIDO","level":"error","message":"Bad Request"}
+{"code":400,"error":"CEP INVÁLIDO","level":"error","message":"Bad Request"}
+{"code":400,"error":"CEP NAO ENCONTRADO","level":"error","message":"Bad Request"}
+{"code":400,"error":"CEP INVÁLIDO","level":"error","message":"Bad Request"}
+{"code":400,"error":"Não foi possível interpretar o XML de resposta.","level":"error","message":"Bad Request"}
+{"code":400,"error":"Não foi possível interpretar o XML de resposta.","level":"error","message":"Bad Request"}
+{"code":400,"error":"Não foi possível interpretar o XML de resposta.","level":"error","message":"Bad Request"}
+{"code":400,"error":"CEP NAO ENCONTRADO","level":"error","message":"Bad Request"}
+{"code":400,"error":"Não foi possível interpretar o XML de resposta.","level":"error","message":"Bad Request"}
+{"code":400,"error":"CEP INVÁLIDO","level":"error","message":"Bad Request"}
